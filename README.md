@@ -29,6 +29,8 @@ Inspired by the potential for change, I pursued a GIS degree. In a team with Khu
 
 [Arduino GPS Project Report.pdf](https://github.com/mhwahla/arduinoGPS_NEO6M/files/12817302/Arduino.GPS.Project.Report.pdf)
 
-[embed]https://github.com/mhwahla/arduinoGPS_NEO6M/files/12817302/Arduino.GPS.Project.Report.pdf[/embed]
 
+<h3 align="center">
+GIS IS WHAT WE EAT BEAT AND PREACH
+</h3>
 
