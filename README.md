@@ -1,5 +1,17 @@
-# arduinoGPS_NEO6M
+
+<h1 align="center">
+arduinoGPS_NEO6M
+</h1>
+<h2 align="center">
 Inspired by the potential for change, I pursued a GIS degree. In a team with Khuram and Waqas, we embarked on a project fusing Arduino and GPS tech. Our journey involved intense Arduino learning, extensive research, and coding challenges. A breakthrough came, and we successfully harnessed NMEA data from satellites.
+</h2>
+<h3 align="center">
+| Remote Sensing & GIS 🛰️ | Programming passion 🌊 | GNNS GIS GEOSPATIAL🌆 |
+</h3>
+
+
+
+
 ![0001](https://github.com/mhwahla/arduinoGPS_NEO6M/assets/51794945/256963a2-7f3e-4c55-b7e3-b6aff99239b5)
 ![0002](https://github.com/mhwahla/arduinoGPS_NEO6M/assets/51794945/a89c4f6b-a1de-4fe6-844e-82d4207fe091)
 ![0003](https://github.com/mhwahla/arduinoGPS_NEO6M/assets/51794945/f076b029-d3c9-4d35-a828-8dee1a370957)
