@@ -29,6 +29,11 @@ Inspired by the potential for change, I pursued a GIS degree. In a team with Khu
 
 [Arduino GPS Project Report.pdf](https://github.com/mhwahla/arduinoGPS_NEO6M/files/12817302/Arduino.GPS.Project.Report.pdf)
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="muhammad-hamza-mhwahla-7a9b12135" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/muhammad-hamza-mhwahla-7a9b12135?trk=profile-badge">Muhammad Hamza (mhwahla)</a></div>
+              
+
+
 
 <h3 align="center">
 GIS IS WHAT WE EAT BEAT AND PREACH
